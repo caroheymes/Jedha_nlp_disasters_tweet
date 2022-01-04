@@ -10,7 +10,27 @@ The goal is to build
 
 
 ## **General considerations**
-In the EDA notebook, special attention has been brought to the production of the graphs with the packages stylecloud and scattertext.We proove that the words, keywords and hashtags contained in each tweet are a good indicator of whether they're about a real disaster or not (They are !)
+In the EDA notebook, special attention has been brought to the production of the graphs with the packages stylecloud.
+cf figure below of the disasters keywords frequence
+
+![image](https://user-images.githubusercontent.com/32369680/148103223-87014e83-edf0-41e1-91a9-ef5ab744a70a.png)
+
+or this wordcloud with unknown topic
+![image](https://user-images.githubusercontent.com/32369680/148103460-fa02c4ec-0c2a-4948-97bf-62a2e9341745.png)
+
+Scattertext is an elegant, interactive tool to elevate text analysis
+'''@article{kessler2017scattertext,
+  author    = {Kessler, Jason S.},
+  title     = {Scattertext: a Browser-Based Tool for Visualizing how Corpora Differ},
+  booktitle = {Proceedings of ACL-2017 System Demonstrations},
+  year      = {2017},
+  address   = {Vancouver, Canada},
+  publisher = {Association for Computational Linguistics},
+}'''
+
+ https://htmlpreview.github.io/?https://drive.google.com/file/d/1-nG7SExgWTAdL2f9u10Wxqvv2l7Nudro/view?usp=sharing
+
+We proove that the words, keywords and hashtags contained in each tweet are a good indicator of whether they're about a real disaster or not (They are !)
 
 
 ## **Results**
