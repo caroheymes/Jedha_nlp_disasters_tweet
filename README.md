@@ -22,6 +22,8 @@ Unknown topic tweets main words :
 
 Scattertext is an elegant, interactive tool to elevate text analysis 
 ```@article{kessler2017scattertext, author = {Kessler, Jason S.}, title = {Scattertext: a Browser-Based Tool for Visualizing how Corpora Differ}, booktitle = {Proceedings of ACL-2017 System Demonstrations}, year = {2017}, address = {Vancouver, Canada}, publisher = {Association for Computational Linguistics}, }```
+Please see the map in the notebook
+![scattertext](https://user-images.githubusercontent.com/32369680/148113942-f3ada51f-29f0-4519-9c88-9aef30ec9315.png)
 
 
 We proove that the words, keywords and hashtags contained in each tweet are a good indicator of whether they're about a real disaster or not (They are !)
