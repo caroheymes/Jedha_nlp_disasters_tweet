@@ -15,6 +15,7 @@ In the EDA notebook, special attention has been brought to the production of the
 The models built with Google Sentence Encoder or Transformers have the great advantage of not requiring any particular preprocessing, unlike the sequential models. 
 
 The best validation accuracy has been reached with Google Sentence Encoder (0.84176)
+
 ![image](https://user-images.githubusercontent.com/32369680/148094069-0069dd23-5392-4c6e-9df7-e811a0a19aed.png)
 
 Concerning the sequential model, I was quite impressed to discover that early stopping allowed to save a model with a val_accuracy equal to 0.80789
