@@ -21,7 +21,8 @@ The best validation accuracy has been reached with Google Sentence Encoder (0.84
 ![image](https://user-images.githubusercontent.com/32369680/148094069-0069dd23-5392-4c6e-9df7-e811a0a19aed.png)
 
 Concerning the sequential model, I was quite impressed to discover that early stopping allowed to save a model with a val_accuracy equal to 0.80789.
-![image](https://user-images.githubusercontent.com/32369680/148096074-d3727082-0d37-4867-8242-d7b7bbd5d21f.png)
+![image](https://user-images.githubusercontent.com/32369680/148096182-29ac31d7-85cd-47a2-90bb-7423e8755c89.png)
+
 
 
 ## **Conclusion **
