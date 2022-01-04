@@ -33,11 +33,12 @@ The models built with Google Sentence Encoder or Transformers have the great adv
 
 The best validation accuracy has been reached with Google Sentence Encoder (0.84176)
 
+![image](https://user-images.githubusercontent.com/32369680/148117368-b048890b-2b1d-4bb7-9416-f4eaf6452c13.png)
 
 
-Concerning the sequential model, I was quite impressed to discover that early stopping allowed to save a model with a val_accuracy equal to 0.80789.
+Concerning the sequential model, I was quite impressed to experience that early stopping allowed to save a model with a val_accuracy equal to 0.80789.
 
 
 
-**Perspectives**
+## **Perspectives**
 I need in the future to deepen my basic understanding of these tremendously complex techniques (...)
