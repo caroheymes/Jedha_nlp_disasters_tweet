@@ -1,4 +1,4 @@
-#Jedha_nlp_disasters_tweet
+## **Foreword : nlp & deep learning for text classification**
 
 Text analysis and prediction  NLP (Natural Language Processing) or deep learning is shorthand for a wide array of techniques designed to help machines learn from text. Natural Language Processing powers everything from chatbots to search engines, and is used in diverse tasks like text classification, sentiment analysis and machine translation.
 
