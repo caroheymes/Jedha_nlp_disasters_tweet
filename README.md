@@ -16,6 +16,7 @@ cf figure below of the disasters keywords frequence
 ![image](https://user-images.githubusercontent.com/32369680/148103223-87014e83-edf0-41e1-91a9-ef5ab744a70a.png)
 
 or this wordcloud with unknown topic
+
 ![image](https://user-images.githubusercontent.com/32369680/148103460-fa02c4ec-0c2a-4948-97bf-62a2e9341745.png)
 
 Scattertext is an elegant, interactive tool to elevate text analysis
@@ -28,6 +29,8 @@ Scattertext is an elegant, interactive tool to elevate text analysis
   publisher = {Association for Computational Linguistics},
 }'''
 
+
+{{< figure src="https://drive.google.com/file/d/1-nG7SExgWTAdL2f9u10Wxqvv2l7Nudro/view?usp=sharing" title="Tweets scattertext" >}}
  https://htmlpreview.github.io/?https://drive.google.com/file/d/1-nG7SExgWTAdL2f9u10Wxqvv2l7Nudro/view?usp=sharing
 
 We proove that the words, keywords and hashtags contained in each tweet are a good indicator of whether they're about a real disaster or not (They are !)
