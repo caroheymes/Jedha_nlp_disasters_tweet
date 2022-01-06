@@ -41,4 +41,5 @@ Concerning the sequential model, I was quite impressed to experience that early 
 
 
 ## **Perspectives**
-I need in the future to deepen my basic understanding of these tremendously complex techniques (...)
+I need in the future to **deepen** my basic understanding of these tremendously complex techniques (...)
+
